@@ -15,6 +15,9 @@ using std::string;
 #define BUFFER 32
 #define ALPHABETSIZE 26
 // we use some literals below for demonstration purposes, DO NOT DO THIS!
+//new comment
+//new comment
+//new comment
 
 /*
  * This function will take a character array and fill it with 'x'
